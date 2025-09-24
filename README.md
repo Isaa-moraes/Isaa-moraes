@@ -15,6 +15,19 @@
 🎭 Fora do universo da programação, tenho grande paixão pelas artes cênicas, e acredito que essa versatilidade entre lógica e criatividade me ajuda a enxergar problemas e soluções de forma única.  
 🚀 Meu objetivo é evoluir a cada dia, transformar desafios em oportunidades de aprendizado e usar a tecnologia como uma forma de impactar positivamente a vida das pessoas.  
 
+## 🎓 Participações e Aprendizados
+
+💡 Tive a oportunidade de participar do **Impulsionando Jovens Carreiras**, um projeto do Multiplic Jovem em parceria com a ACEOC, voltado para preparar jovens para o mercado de trabalho e para o primeiro emprego.  
+Durante o programa, desenvolvi habilidades que complementam minha formação técnica e que são essenciais no ambiente profissional, como:  
+
+- 🗣️ **Comunicação eficaz** – aprendendo a me expressar melhor em diferentes contextos, inclusive apresentações e entrevistas.  
+- 🤝 **Trabalho em equipe** – colaborando em atividades práticas e dinâmicas em grupo.  
+- 🎯 **Planejamento e organização** – estruturando metas pessoais e profissionais com mais clareza.  
+- 💼 **Preparação para processos seletivos** – incluindo elaboração de currículo, postura profissional e autoconfiança.  
+- 🔎 **Autoconhecimento e vocação profissional** – refletindo sobre pontos fortes, áreas de interesse e objetivos de carreira.  
+
+🚀 Essa experiência reforçou meu compromisso em unir **habilidades técnicas** (desenvolvimento web, banco de dados, programação) com **competências socioemocionais** (liderança, resiliência, disciplina e colaboração), fundamentais para crescer como profissional e contribuir de forma positiva em qualquer equipe.  
+
 ## Ferramentas e Tecnologias
 ##### Estou aprendendo:
 
