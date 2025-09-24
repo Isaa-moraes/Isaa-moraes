@@ -5,6 +5,16 @@
 - 👯 Estou procurando colaborar em projetos simples de desenvolvimento web, código aberto para iniciantes e pequenos sistemas, para praticar programação, versionamento e aprender junto com outras pessoas.
 - 💬 Pergunte-me sobre lógica de programação, HTML, CSS e minhas experiências no curso de Desenvolvimento de Sistemas.
 
+## 🌟 Bastidores da Programação
+
+✨ Sou uma pessoa dedicada, curiosa e criativa, sempre em busca de aprender e aplicar meus conhecimentos em tecnologia de forma prática.  
+💻 Tenho interesse em desenvolvimento web, banco de dados e metodologias ágeis, mas também trago minha criatividade de outras áreas, como as artes.  
+🤝 Gosto de colaborar em projetos, compartilhar ideias e crescer junto com outras pessoas.  
+🎯 Estou constantemente trabalhando minha disciplina, foco e comunicação para me tornar uma profissional cada vez mais completa.  
+
+🎭 Fora do universo da programação, tenho grande paixão pelas artes cênicas, e acredito que essa versatilidade entre lógica e criatividade me ajuda a enxergar problemas e soluções de forma única.  
+🚀 Meu objetivo é evoluir a cada dia, transformar desafios em oportunidades de aprendizado e usar a tecnologia como uma forma de impactar positivamente a vida das pessoas.  
+
 ## Ferramentas e Tecnologias
 ##### Estou aprendendo:
 
