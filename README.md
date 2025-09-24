@@ -1,5 +1,9 @@
 ## Olá!! Meu nome é Isadora Moraes👋
-**Bem-vidos ao meu perfil Gitnub!** 
+**Bem-vidos ao meu perfil Gitnub!**
+<br>
+<br>
+<br>
+
 - 🔭 Atualmente estou estudando na Escola SESI de Osvaldo Cruz, integrada com o curso "Desenvolvimento de Sistemas" do SENAI.
 - 🌱 Atualmente estou me aprofundando em modelagem e organização de dados, criação e consulta de bancos de dados, além de aprender a estruturar e estilizar páginas para a web usando HTML e CSS. Também estou desenvolvendo minhas habilidades de lógica de programação, trabalhando com estruturas de decisão e repetição, funções e boas práticas de código. Paralelamente, venho explorando metodologias ágeis, controle de versão com Git/GitHub e documentação de projetos, sempre buscando transformar teoria em prática através de pequenos sistemas e aplicações.
 - 👯 Estou procurando colaborar em projetos simples de desenvolvimento web, código aberto para iniciantes e pequenos sistemas, para praticar programação, versionamento e aprender junto com outras pessoas.
